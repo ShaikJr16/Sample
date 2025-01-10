@@ -1,0 +1,5 @@
+{"name":"shaik",
+"age":27,
+"status":true,
+"address":{"city":"chennai","state":"TamilNadu","country":"India"},
+"courses":["Java","Selenium","Framework"]}
